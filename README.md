@@ -21,6 +21,8 @@
 </div>
 
  ##
+  
+  ![Snake animation](https://github.com/heberRibeiro/heberRibeiro/blob/output/github-contribution-grid-snake.svg)                                                                                                                                 
 
 <!--
 **heberRibeiro/heberRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
